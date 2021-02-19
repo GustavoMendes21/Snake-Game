@@ -4,4 +4,4 @@ Jogo da cobrinha usando HTML, CSS e Javascript, feito durante o bootcampt da [Di
 
 ## Resultado 
 
-![resultado]()
+![resultado](https://github.com/GustavoMendes21/Snake-Game/blob/main/assets/result.png)
